@@ -6,6 +6,11 @@ dlib
 OpenCV 3
 ```
 
+# 安装
+```bash
+pip3 install -r requirements.txt
+```
+
 # 使用
 ```bash
 python face_mopher [filename1] [filename2] [alpha]
